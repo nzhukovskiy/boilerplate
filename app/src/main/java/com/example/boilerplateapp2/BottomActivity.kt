@@ -14,6 +14,7 @@ class BottomActivity : AppCompatActivity() {
     private lateinit var binding: ActivityBottomBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        setTheme(R.style.Theme_BoilerPlateApp2)
         super.onCreate(savedInstanceState)
 
         binding = ActivityBottomBinding.inflate(layoutInflater)
