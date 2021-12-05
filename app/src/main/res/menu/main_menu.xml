@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Hi"
+        />
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="AnotherHi" />
+</menu>
