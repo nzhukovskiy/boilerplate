@@ -17,6 +17,19 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/app/src/main/res/layout/nav_fragment.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/app/src/main/res/menu/main_menu.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/tabapp/src/main/res/layout/activity_main.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/tabapp/src/main/res/layout/center_fragment.xml" value="0.11947141316073355" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/tabapp/src/main/res/layout/left_fragment.xml" value="0.11947141316073355" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/tabapp/src/main/res/layout/right_fragment.xml" value="0.11947141316073355" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/drawable/ic_home_black_24dp.xml" value="0.30357142857142855" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/drawable/launch_screen.xml" value="1.6928571428571428" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/drawable/my_shape.xml" value="1.1785714285714286" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/layout/activity_main.xml" value="0.1266233766233766" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/layout/activity_main2.xml" value="1.042763157894737" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/layout/activity_main3.xml" value="1.042763157894737" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/layout/first_fragment.xml" value="1.0953947368421053" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/layout/recycler_item.xml" value="1.042763157894737" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BoilerPlateApp2/wearmodule/src/main/res/layout/second_fragment.xml" value="1.0953947368421053" />
       </map>
     </option>
   </component>
